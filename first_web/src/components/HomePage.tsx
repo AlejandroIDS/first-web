@@ -15,7 +15,7 @@ function HomePage() {
 
 
             </div>
-            <img src={HomeImage} alt="Online Courses" style={{ width: '100%', height: 'auto', borderRadius: '10%' }} />
+            <img src={HomeImage} alt="Online Courses" style={{ width: '100%', height: 'auto', borderRadius: '10%', marginTop: '5%', marginBottom: '5%' }} />
         </div >
     )
 }
